@@ -8,16 +8,16 @@
   }
 
   // Text channels
-  .containerDefault--pIXnN {
+  .containerDefault-YUSmu3 {
     &:hover {
       @include guild-channel(var(--midnightcord-blurple-replace));
     }
 
-    .unread-2lAfLh {
+    .unread-36eUEm {
       background-color: var(--midnightcord-blurple-replace);
     }
 
-    .modeUnread-1qO3K1 {
+    .modeUnread-3Cxepe {
       @include guild-channel(var(--midnightcord-blurple-replace));
     }
   }
